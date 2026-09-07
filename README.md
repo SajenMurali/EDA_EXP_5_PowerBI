@@ -1,7 +1,3 @@
-```
-Name:Sajen Murali
-Reg no:212223220089
-
 ### Lab Experiment 5: Time Series Analysis for Sales Data using Power BI
 
 **Aim**
