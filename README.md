@@ -163,7 +163,7 @@ Finally, identify at least three meaningful business insights from the analysis.
 
 **Expected Output**
 
-<img width="1160" height="646" alt="image" src="https://github.com/user-attachments/assets/519d0340-2832-421e-ab47-35e56f5fb0b0" />
+
 
 **Executive Business Insights**
 
