@@ -1,4 +1,4 @@
-### Lab Experiment 5: Time Series Analysis for Sales Data using Power BI
+**Lab Experiment 5: Time Series Analysis for Sales Data using Power BI**
 
 **Aim**
 
@@ -145,10 +145,8 @@ Allow the user to select a specific date range and observe how the time-series a
 **10. Create the Time Series Report**
 Create a single report page containing:
 
-
 **Summary**
     Total Sales Card
-    
 **Analysis**
     Monthly Sales Trend
     Month-to-Month Sales Change
@@ -162,17 +160,11 @@ Create a single report page containing:
 Finally, identify at least three meaningful business insights from the analysis.
 
 **Expected Output**
+<img width="713" height="341" alt="image" src="https://github.com/user-attachments/assets/f3a14a2e-034f-47dc-baf3-20232b04b015" />
 
 
 
-**Executive Business Insights**
 
-1. Peak & Trajectory: Sales peaked in May 2025 at approximately $0.35M before entering a steady decline down to approximately $0.20M by early 2026.
-
-2. Trend Smoothing: The 3-Month Moving Average confirms an underlying medium-term sales contraction rather than random short-term dips.
-
-3. Category Drivers: Home and Fitness lead total revenue at over $0.8M each, while Accessories is the lowest performer at $0.2M.
 
 **Result**
-
 Thus, the sales data was successfully analyzed using time-series techniques in Power BI. Monthly trends, sales changes, growth rates, moving averages, and year-over-year performance were calculated and visualized to create an interactive Time Series Sales Analysis Report.
